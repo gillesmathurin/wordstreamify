@@ -9,6 +9,10 @@ For now it's a 'eager loading' plugin making its methods available to all your M
 Installation
 ============
 
+To install :
+
+script/plugin install git@github.com:gillesmathurin/wordstreamify.git
+
 Usage
 =====
 
