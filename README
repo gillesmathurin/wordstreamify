@@ -1,7 +1,9 @@
 Wordstreamify
 =============
 
-This plugin is a ruby on rails wrapper around the Wordstream API (www.wordstream.com). Its goal is to facilitate the integration of the Wordstream API in Rails application. RubyRescue (http://rubyrescue.com) ask me once to integrate the API to an app and so i did, and decided to make a plugin out of it. It's a work in progress as  all the API functions has not been implemented yet :-) 
+This plugin is a ruby on rails wrapper around the Wordstream API (www.wordstream.com). Its goal is to facilitate the integration of the Wordstream API in Rails application. RubyRescue (http://rubyrescue.com) ask me once to integrate the API to an app and so i did, and decided to make a plugin out of it. It's a work in progress but the main API function has been implemented …
+
+For now it's a 'eager loading' plugin making its methods available to all your Model Class, the next iteration will make it a lazy loading plugin and will be tagged accordingly. So you'll have the choice between the two.
 
 
 Installation
