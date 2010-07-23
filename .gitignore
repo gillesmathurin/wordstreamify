@@ -1,0 +1,3 @@
+test/database.yml
+test/debug.log
+test/wordstreamify_plugin.sqlite3.db
